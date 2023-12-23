@@ -1,6 +1,9 @@
 {
   "name": "kenshi-pubkey-finder",
   "version": "0.0.1",
+  "scripts": {
+    "start": "node index.js"
+  }
   "dependencies": {
     "prompt-sync": "4.2.0",
     "@chainsafe/bls": "^7.1.2",
